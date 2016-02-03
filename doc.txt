@@ -1,0 +1,7 @@
+1 - cycle
+---------
+
+F. Fetch control signals
+
+
+2 - microcode format
